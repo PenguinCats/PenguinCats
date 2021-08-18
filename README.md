@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ ✨ This is **PenguinCats**. Obviously, I want to have a cat and the opportunity to touch a penguin.
++ ✨ This is **PenguinCats**. Obviously, I want to have a cat and the opportunity to hug a penguin.
 + 🔭 I'm now a graduate student of Southeast University. My current research interest is in **urban computing**. 
 + 🌱 Currently, I’m also learning platform development and design. 
 + 😄 Actually, I'm developing a distributed elastic computing resource sharing platform in my spare time.
