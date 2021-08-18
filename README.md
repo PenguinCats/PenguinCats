@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
++ ✨ This is **PenguinCats**. Obviously, I want to have a cat and the opportunity to touch a penguin.
++ 🔭 I'm now a graduate student of Southeast University. My current research interest is in **urban computing**. 
++ 🌱 Currently, I’m also learning platform development and design. 
++ 😄 Actually, I'm developing a distributed elastic computing resource sharing platform in my spare time.
++ ⚡ Preferred languages are Go (learning) and C++. At school I have no choice to write Python.
++ 📫 How to reach me: bj_zhang@seu.edu.cn or penguinszhang@foxmail.com
