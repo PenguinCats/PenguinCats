@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ ✨ This is **PenguinCats**. Obviously, I want to have a cat and the opportunity to hug a penguin.
++ ✨ This is **PenguinCats**. Obviously, I want to have a cat.
 + 🔭 I'm now a graduate student of Southeast University. My current research interest is in **urban computing**. 
-+ 🌱 Currently, I’m also learning platform development and design. 
-+ 😄 Actually, I'm developing a distributed elastic computing resource sharing platform in my spare time.
++ 🌱 Currently, I'm developing a distributed elastic computing resource sharing platform in my spare time.
 + ⚡ Preferred languages are Go (learning) and C++. At school I have no choice to write Python.
 + 📫 How to reach me: bj_zhang@seu.edu.cn or penguinszhang@foxmail.com
+
+---
+
++ ⏰ 2022
+  + Being an intern in Microsoft from 2022.5-2022.8
++ ⏰ 2021
+  + Nothing special, just do research at school (somewhat reluctant)
++ ⏰ 2020
+  + Earn a bachelor's degree
+  + began graduate study at Southeast University
