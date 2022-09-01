@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 + ⏰ 2022
-  + Being an intern in Microsoft from 2022.5-2022.8
+  + Being an intern in Microsoft from May 2022 to Aug 2022.
 + ⏰ 2021
   + Nothing special, just do research at school (somewhat reluctant)
 + ⏰ 2020
