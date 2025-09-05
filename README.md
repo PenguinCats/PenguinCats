@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 + ✨ This is **PenguinCats**. Obviously, I want to have a cat.
 + 🔭 I'm now a software engineer at [Microsoft](https://www.microsoft.com/)
 + ⚡ Preferred languages are Go (learning) and C++.
-+ 📫 How to reach me: penguinszhang@foxmail.com
++ 📫 How to reach me: penguinszhang@foxmail.com or binjiezhang@microsoft.com
 
 ---
 
@@ -27,7 +27,5 @@ Here are some ideas to get you started:
   + Join [Microsoft](https://www.microsoft.com/)
 + ⏰ 2022
   + Being an intern in Microsoft from May 2022 to Aug 2022.
-+ ⏰ 2021
-  + Nothing special, just do research at school (somewhat reluctant)
 + ⏰ 2020
   + Receive a bachelor's degree from [Nanjing University of Information Science & Technology](https://www.nuist.edu.cn/main.htm)
